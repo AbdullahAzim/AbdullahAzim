@@ -6,11 +6,11 @@ I'm a passionate SQA Engineer from Bangladesh with over 1 years of experience an
 Currently, I am working on BJIT(a Bangladesh Japan Information Technology) as a Trainee SQA Engineer.
 
 <p align="center">
-  <a href="https://github.com/Abdullah-Al-Azim?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Abdullah-Al-Azim?color=green&logo=github">
+  <a href="https://github.com/AbdullahAzim?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/AbdullahAzim?color=green&logo=github">
   </a>
-  <a href="https://github.com/Abdullah-Al-Azim">
-    <img src="https://komarev.com/ghpvc/?username=Abdullah-Al-Azim" alt="visitors" />
+  <a href="https://github.com/AbdullahAzim">
+    <img src="https://komarev.com/ghpvc/?username=AbdullahAzim" alt="visitors" />
   </a>
 </p>
 
