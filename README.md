@@ -24,7 +24,7 @@ Currently, I am working on BJIT(a Bangladesh Japan Information Technology) as a 
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **azeemzeehan3@gmail.com**
+- 📫 How to reach me **abdullah.azim@bjitacademy.com**
 
 - ⚡ Fun fact **I can provide you cookies for free to eat 🍪😂**
 
